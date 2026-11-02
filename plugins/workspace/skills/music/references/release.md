@@ -1,0 +1,19 @@
+# Release planning
+
+Enter at the actual job: a track choice, release plan, current releases or outcome review. Read live rules, relevant catalogue/examples, current tasks/waits/projects and their dependencies. Establish version, one-sentence purpose, audience, possible destination, master state, materials, capacity and declared constraints. Do not impose genre hierarchy or infer character from a finished track waiting for release.
+
+Compare own release, label approach, collaboration or deferral only when real alternatives: purpose, cost, dependencies and evidence that changes the recommendation. Check conflict with already adopted releases.
+
+Plan backward from a chosen date or clearly proposed window: final audio/check → documented credits/permissions → artwork/metadata → distribution handoff → optional editorial pitch → materials/contacts → release → result check. Each step names responsible person, dependency, completion evidence and real date or date to agree. Rights are not certified by an assumption; identify the actual document or responsible professional.
+
+Platform/distributor deadlines need current official instructions supplied by the owner or actually read through an identified permitted connector, with source/date. Without that route ask for the relevant browser excerpt/export. No universal lead time, playlist guarantee or outdated numeric rule. If the minimum plan cannot fit, reduce optional materials or reconsider the date. For capacity read relevant accepted days and available permitted calendar evidence; unknown intervals stay unknown. Do not invent calendar-block tools.
+
+Promotion starts with documented relationships. Use relevant `list_people` and pages without creating profiles. A proposed contact needs recipient, musical reason, recent evidence, real contact route, date and gaps. A playlist listing proves neither traffic quality nor fraud checks. Never fabricate addresses or contacts. Each opening should depend on a verified recipient-specific fact; interchangeable messages need a better reason. Paid or guaranteed placement terms require actual current verification, never invented promises.
+
+Handoff includes date, purpose, one-sentence positioning, actual audio version, ready/missing materials, confirmed credits, complete requested copy and result criterion. For missing art/video/audio name the file and real editor/local production step. Distribution upload, platform pitch and sending remain the owner's operations in their account. A supporting Writing/Visual Design contribution is optional; the release mode can deliver its own brief without assuming another installed skill.
+
+Selected correspondence follows [mail.md](mail.md). A draft is not sent; open a response wait only after actual sending is reported or evidenced and the wait is adopted. State changes follow [work-lifecycle.md](work-lifecycle.md).
+
+At review use owner-supplied distribution/analytics exports or an explicitly permitted actual read operation: period, traffic source, denominators, listeners/plays, saves and relevant replies when available. Do not add overlapping audiences or confuse visibility with the chosen outcome. A roughly four-week review can be proposed but is neither imposed nor automated. Partial or inseparable data stay partial.
+
+Deliver recommendation, ordered plan, first obstacle, first action and full requested texts. File a Release plan page with dependencies/evidence/success criterion, exact choice with `page` and adopted dated tasks via [landing.md](landing.md). At return check actual completion and changed choices; elapsed dates do not close tasks. When the plan is filed, call `show_countdown` once for the release's project as the sitting's last step, so the owner sees the days to go and the next deadline at a glance; where that tool is not in this conversation, say nothing about it.

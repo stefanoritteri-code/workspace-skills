@@ -1,0 +1,11 @@
+# Review only
+
+Identify artifact/version, audience, expected result, binding brief and accepted examples with reasons. Read the actual artifact and relevant rules and sources. If no artifact is accessible, provide a test plan, not a verdict on unseen work. Expose coverage: text read, images seen, behavior actually exercised and evidence still missing. If you made the work, call this self-review; a second simulated role is not independent.
+
+Choose one to three useful lenses: recipient, plausible failure mechanism, strongest argument for the work, evidence that could disprove it, busy reader, or a real competing alternative. Include the strongest favorable reading for consequential work. Do not invent objections to fill a quota.
+
+Map requirement → exact location → evidence → met, violated or unverified. Open decisive cited sources: formatting is not evidence that the source supports the claim or period. Prioritize binding requirements, usefulness, clarity, then polish. Report every violated or unverified mandatory requirement even if there are more than three. Each finding gives location, basis, evidence, consequence and corrective direction. Label personal preferences as preferences, never blockers.
+
+Return one verdict: **Ready** only if all applicable mandatory requirements were verified in the declared scope; **Needs correction** for a bounded material defect; **Needs rethinking** for a failed premise or structure; **Unverifiable** for missing decisive evidence. Rank findings as blocks, weakens or refinement. Name one or two strengths when supported, lenses used, coverage and confidence. Do not edit or rewrite in review-only mode. A requested revision is a separate authorship act; recheck affected requirements on the new version.
+
+A screenshot verifies that view, not interaction; source text is not a rendered document; a storyboard is not a film; a lyric sheet does not prove sung stress. Name the actual connector test or human/editor result needed. A fresh review requires a real new conversation or person with brief, artifact and examples, not fictional independence. The verdict never authorizes sending or publishing. File only when authorized, using [landing.md](landing.md); our verdict remains counterpart-authored.

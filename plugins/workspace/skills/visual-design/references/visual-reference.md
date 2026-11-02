@@ -1,0 +1,13 @@
+# Decode a visual reference
+
+Identify exact image/sequence, version, relevant element and intended use. Resolve only ambiguity that changes the work. Retrieve accepted/rejected examples and scope. Observe supplied visible images or an identified connector result; a title, transcript or unopened link does not prove vision. For inaccessible video request time-labeled frames and a sequence/clip if movement matters. Still frames cannot establish editing, sound or fluidity.
+
+Separate **observed** properties with image/time; **documented** technique from an actually read dated source; **hypothesis** compatible with the image; and **proposal** for obtaining an effect. Compressed perspective does not identify an exact focal length; blur/grain do not prove lens, stock, aperture or camera. Proposed technical ranges are trials, not historical facts. A decisive unverified technique remains a gap; use supplied primary material or a real permitted connector, never invented research.
+
+One card per reference: chosen element/use; framing (scale, height, angle, distance, planes, focal point); lens effect/field/depth separated from proposed setup; light (direction, hardness, apparent source size, contrast, separation); color/treatment (relative temperature, saturation, blacks/highlights, casts, grain/halation); composition/material (ratios, negative space, geometry, weight, texture, aspect); movement only actually observed (trajectory, speed, holds, transitions, rhythm); concise operational description; two or three specific unwanted drifts; compatibility with adopted examples/constraints; provenance and confidence per claim.
+
+Operational language contains no artist or work names: describe repeatable properties. Owner-provided identifiers may remain in permitted provenance. Avoid empty adjectives. An invented example such as a small subject at right, empty left space, soft side light, restrained shadows and static camera is a proposal, not a claim about a real reference's equipment.
+
+Show the reading and invite correction only where needed; do not reconfirm a clear choice. Propose a small test isolating the decisive property and what to inspect. Decoding alone does not authorize generation/editing. Name actual input, connector/editor/frame-extraction route and returned proof. Access, editing and export are separate capabilities.
+
+File the Visual reference page via [landing.md](landing.md), with actual sources, card and limits. An adopted technical choice gets the owner's exact words and `page`; a chosen comparison gets a deadline task. A hypothesis is not a decision; an original image is not saved by the text page.

@@ -1,0 +1,15 @@
+# Investigate with evidence
+
+Define the question, use, audience, time boundary and what evidence could change the answer. Start with the owner's record and knowledge through [access.md](access.md). Separate what is already decided from what is still to learn. Choose a bounded search that can answer the question, not an unending survey.
+
+For new outside evidence identify the available, permitted public-source connector and actual search/read operations. Prioritize primary sources and direct documents; a search snippet or remembered claim is a lead, not a source read. If no capable route exists, have the owner open the source and supply its relevant document or excerpt, with URL, date and page. Do not claim a failed search proves no evidence exists. Do not browse unrelated owner data.
+
+Maintain an evidence ledger for consequential claims: claim; exact source title/identifier; author or institution as printed; publication/update date; period described; actual URL or door path copied verbatim from the material read; page/section/time locator; short supporting passage copied verbatim; relevant limiting passage; and status. Preserve spelling and qualifiers in quotes. A translation or summary is labeled and kept separate from the original excerpt. Do not reconstruct URLs, add a plausible page number or upgrade a secondary source into firsthand evidence.
+
+Cite printed page numbers when present. For a PDF with differing labels, state printed page and PDF page index plainly. For unpaginated material cite the real section or paragraph; for media use a verified time. A document title is not a page citation. Copy only the necessary permitted excerpts, respecting quotation limits and privacy; retain citations and paraphrase when a longer reproduction is unavailable. Do not promise wholesale copying of copyrighted sources.
+
+Distinguish documented fact, owner report, dated prior interpretation, inference, estimate and unknown. Test a favored interpretation against the strongest contrary evidence. Show conflicts rather than silently choosing one version. Verify recent claims against actually accessible current evidence; mark stale or inaccessible claims. Association alone does not establish causation. Include uncertainty that could change the conclusion, not a ritual disclaimer.
+
+Deliver the answer first, then the decisive evidence with page citations, contrary findings and limitations, and one proposed next move if useful. A recommendation is ours until adopted; source quotations do not authorize a record change. Use [landing.md](landing.md) to keep a Research page with the evidence ledger, exact adopted decision with `page`, and a chosen verification task with deadline. A research finding alone creates neither decision nor task.
+
+Before delivery check that each decisive citation was opened, supports the exact claim, preserves qualifications and uses an honest locator. Sources that were merely suggested remain a separate unread list. A second pass by the same model is self-review, not independent verification.

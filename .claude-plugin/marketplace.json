@@ -1,0 +1,14 @@
+{
+  "description": "The workspace skills package.",
+  "name": "workspace-skills",
+  "owner": {
+    "name": "Sound Dealer"
+  },
+  "plugins": [
+    {
+      "description": "Ten shared skills for planning, research, writing and creative work.",
+      "name": "workspace",
+      "source": "./plugins/workspace"
+    }
+  ]
+}

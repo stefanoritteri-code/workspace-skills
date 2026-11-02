@@ -1,0 +1,23 @@
+# Document-led accounts
+
+Set period, as-of date, currency and purpose: chase preparation, recurring billing review or period close. Use only supplied or explicitly designated permitted documents. Read relevant rules, records, current tasks/waits and relationship notes needed for a specific chase. Imported snapshots or prior summaries are not today's balance. Ask for minimal necessary fields, not bank credentials/account identifiers or unrelated financial history. A missing read is not no debt.
+
+Per item retain document reference, counterpart, issue date, due date, amount/currency, documented tax inclusion, attributed receipts, credit notes, residual, state, source and verification date. Prefer the primary document to a task note. Issued invoice, promised payment and documented receipt are different states.
+
+Reconcile before drafting. Show residual = invoiced amount − attributed receipts − applicable documented credits, with the actual sign treatment of supplied adjustments. Never invent missing values, offsets, allocation or currency conversion. Negative balances, duplicates and inconsistencies go to **verify**. Unmatched transactions remain unallocated. Partial payment reduces residual without settling the invoice. Days late use documented due date and the as-of date; before due is not overdue, no due date is **due date unverified**, not zero. Conflicting sources pause that item's chase until resolved.
+
+Chase summary: document, residual per currency, due date, calculated lateness, verified last contact, hold/reason, next step. Follow adopted cadence/tone; otherwise propose a case-specific cadence for the owner to choose. Check disputes, future promises, active commercial discussions and chosen holds. Do not invent hostility or goodwill. A hold has a reason and chosen review date, not a ready-to-send chase.
+
+Finance retains the lead when a chase also requests the owner’s voice. Retrieve the applicable live tone rules and scoped accepted examples; name the filed rules being followed before drafting, or say none were found or the read failed. If Writing is available, use its voice method as support after these reconciliation and hold checks, without a second draft or filing chain. If only wording remains and current figures/status are already verified, Writing may lead that edit. Tone work cannot clear a dispute or supply missing accounting evidence.
+
+A chase draft includes verified recipient, document reference, residual, due date and concrete request in the owner's tone. No invented fee, threat or commitment. Include only that recipient's relevant details, never other debtors/internal totals/relationship notes. Label prepared, mailbox-saved and owner-sent separately. Follow [mail.md](mail.md) for thread reading, truncation, supported draft fields, receipts and no uncertain retry. Sending is always human.
+
+## Period close
+
+Produce a dated snapshot, not certified accounting. Separate invoices issued in the period, documented collections in the period and residuals at the observation date, per currency. Reconcile opening residuals plus new invoices minus allocated receipts and applicable adjustments to closing residuals; show any unexplained difference. Do not include outside-period rows silently.
+
+Check recurring commitments against supplied contracts: expected, invoiced, not invoiced or blocked. For expenses use supplied exports and already defined categories; keep unknown classifications and anomalies as questions. Future deadlines come only from supplied documents/accounting instructions or the named professional, not guesses about tax law. List missing documents/questions and the chosen next review.
+
+Cash collected is not necessarily revenue, balance is not profit, and partial rows are not complete reconciliation. Combine currencies only with an explicitly supplied dated conversion basis, preserving original totals. For substantial calculations name the actual spreadsheet/editor/local executor using supplied exports; provide formulas, included rows and control totals, then inspect returned results. If no executor exists, deliver the worksheet specification and identify calculations still unperformed, not a falsely calculated total.
+
+File with [landing.md](landing.md): Finance page with period snapshot, traceable calculations, states and gaps; exact operational decision with `page`; agreed deadline task to verify a receipt, prepare a document or reopen a hold. No implicit accounting edits, payment, invoice issuance, tax return, task closure or wait release. A chase draft proves no payment. The page is not a second official ledger or monitoring service.
