@@ -38,7 +38,7 @@ When Metricool is not connected in this Claude, say so in one line, that it is a
 `list_tasks`, `project` the campaign, `format: "json"`, `ids: true`. Match the request to the posts by day and code (`P03 · INSTAGRAM · 18:00 · SINGLE OUT NOW`): the date is the deadline, the network or networks and the local time are in the title. The coded task is the only source of a post's day, network and time; nothing is sent for a post that is not one.
 
 - **The practice post** of the first session is `P00` on the brand's standing project, `<BRAND> SOCIAL`, not on a campaign: `list_tasks` with `project` the standing project. For it, every read and write below uses the standing project where it says the campaign.
-- **A release post from the artist room** is a post piece on the release project, not a coded task, and no action here can tie a coded task to that piece. Send nothing for it, never send from the piece itself, and never make a second post for it: say “That release post was planned in the release plan, and this pack can't yet take it into the social calendar, so I haven't drafted or sent anything for it.” / «Quel post è stato pianificato nel piano dell'uscita, e questo pacchetto non riesce ancora a portarlo nel calendario social, quindi non ho scritto né mandato niente per quel post.» The other posts go on.
+- **A release post from the release plan** is a planned post on the release project, with no code. Follow [release-posts.md](references/release-posts.md): on the person's yes it becomes a coded post linked to the planned one, with the release project as its campaign. It then has no final words yet, so it stops at section 3 until POSTS has drafted it and the person has chosen. Never send from the planned post itself and never make a second post for it. The other posts go on.
 
 Read back in one line which posts these are. A post whose date is in the past cannot be sent: say so and offer to move it (section 7).
 
@@ -131,7 +131,7 @@ Then what is kept in the records (the planner links), what is held for approval,
 
 ## Tools
 
-Reads: `skill_switch`, `list_projects`, `list_tasks`, `list_pieces` (with `role: "final"` and `text: true`), `search_records`; Metricool `getBrandSettings`, `getScheduledPosts`. Writes: Metricool `createScheduledPost` (`draft: true` only); `record_link` (`kind: "review"`); `move_task_date`; `rename` (`kind: "task"`, a moved post's time only).
+Reads: `skill_switch`, `list_projects`, `list_tasks`, `list_pieces` (with `role: "final"` and `text: true`), `search_records`; Metricool `getBrandSettings`, `getScheduledPosts`. Writes: Metricool `createScheduledPost` (`draft: true` only); `record_link` (`kind: "review"`); `move_task_date`; `rename` (`kind: "task"`, a moved post's time only); `make_task` (a release post brought in, with `piece_id`, on the person's yes). Reads for a release post: `show_social_month`.
 
 ## What is not yet known, and what this skill does meanwhile
 

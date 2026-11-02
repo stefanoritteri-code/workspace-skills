@@ -1,6 +1,6 @@
 ---
 name: social-studio-month-plan
-description: "SOCIAL STUDIO: MONTH PLAN. Plans a month, a release, a tour or a season of social posts for one brand: reads the brand's rules, the dates that matter (releases, launches, events already on the record) and Metricool's best times to post, proposes a calendar with one dated post per line, and on the person's yes makes it as one campaign with a task per post, so every post shows on the day, the week and the projects pages beside the rest of the work. Adds a single post to a campaign already made. Use when the person says “plan this month's posts”, “a social calendar for the new single”, “a social calendar for the tour”, “plan next month on social”, “add a post on Saturday”; Italian: «pianifica i post del mese», «un calendario social per il nuovo singolo», «un calendario social per il tour», «aggiungi un post sabato». Never touches the Metricool schedule; drafting the words is SOCIAL STUDIO: POSTS; planning the music release itself is the music skill."
+description: "SOCIAL STUDIO: MONTH PLAN. Plans a month, a release, a tour or a season of social posts for one brand: reads the brand's rules, the dates that matter (releases, launches, events already on the record) and Metricool's best times to post, proposes a calendar with one dated post per line, and on the person's yes makes it as one campaign with a task per post, so every post shows on the day, the week and the projects pages beside the rest of the work. Adds a single post to a campaign already made. Use when the person says “plan this month's posts”, “a social calendar for the new single”, “a social calendar for the tour”, “plan next month on social”, “add a post on Saturday”; Italian: «pianifica i post del mese», «un calendario social per il nuovo singolo», «un calendario social per il tour», «aggiungi un post sabato». Never touches the Metricool schedule; drafting the words is SOCIAL STUDIO: POSTS; planning the music release is the music skill, whose release posts come in here."
 ---
 
 ## Before anything else: is this skill on here?
@@ -27,7 +27,8 @@ Open with one sentence: “I'll read your rules, the dates coming up and when yo
 2. **The rules.** First the brand's line: `search_records` with `text: "SOCIAL BRAND: <BRAND>."`, `state: "live"`, no tag; its words name the brand's rule tag (never build it) and whether it is the only brand here. No line: offer «set up my social media» and stop. Then `search_records` with that `tag`, `state: "live"`, `limit: 50`. From them: the channels, the cadence, the themes, the never-dos, the rhythm (for the only brand in a workspace, also `search_records` with `tag: "scope:planning"`, text `SOCIAL RHYTHM`), any live `SOCIAL TRIAL`, and the `SOCIAL BRAND` line with the Metricool brand number and time zone.
 3. **The dates that matter.** `list_projects` and `list_tasks` (with `window: "this-week"` and bare, and `project` for a release or tour named in the request) for release days, launches, gigs, openings, deadlines already on the record. Ask for any the person mentioned that the record does not hold; never invent one.
 4. **The campaigns already running.** The brand's other campaigns and their open posts, so the plan does not double a day.
-5. **The best times.** Metricool's `getBestTimeToPostByNetwork`, for each network in the plan, with the brand number, the brand's time zone, and a range of at most one week (ask for the coming week; the shape repeats). Check the number and the time zone against `getBrandSettings` first. When Metricool is not connected or refuses, say so in one line and propose times from the rules, called our suggestion.
+5. **A release the release plan already planned.** When the request is for a release (“a social calendar for the new single”) and the release plan made its project, that project already holds the release's posts. They are never planned again: follow [release-posts.md](references/release-posts.md) to bring them in, and the release project is that release's campaign.
+6. **The best times.** Metricool's `getBestTimeToPostByNetwork`, for each network in the plan, with the brand number, the brand's time zone, and a range of at most one week (ask for the coming week; the shape repeats). Check the number and the time zone against `getBrandSettings` first. When Metricool is not connected or refuses, say so in one line and propose times from the rules, called our suggestion.
 
 ## 2. Propose the calendar
 
@@ -46,12 +47,13 @@ Rules for the proposal:
 - If the brand is on Metricool's free plan, it allows twenty posts a month: when the month's plan alone would pass twenty, say so before the yes, and that drafts may count too. (Measured on one free account, 21/10/26.)
 - When a live `SOCIAL TRIAL` covers these weeks, say the posts are part of the trial.
 - When something visibly crowds the plan (the person's own release week, a tour), say what you'd leave out.
+- For a release the release plan already planned, its release posts lead the table, marked as coming from the release plan, and only extra posts are proposed around them.
 
 Then ask on the buttons: “Make this plan” / «Crea questo piano» · “Change something” / «Cambio qualcosa» · “Not now” / «Non ora».
 
 ## 3. Make the campaign
 
-On their yes, `make_project_with_tasks` in one step:
+On their yes, `make_project_with_tasks` in one step. For a release the release plan already planned there is no new campaign: its release posts are brought in by [release-posts.md](references/release-posts.md), and each extra post is added to the release project as in section 4.
 
 - `name`: the brand and what the campaign is, in CAPITALS: `NORTH BAKERY NOVEMBER`, `NORTH BAKERY CHRISTMAS`.
 - `area`: the brand's area. `area_words`: one plain line on what the area is for.
@@ -81,8 +83,9 @@ One short paragraph: the campaign made (or held), how many posts, the first and 
 - Touch the Metricool schedule: this skill reads best times and nothing else in Metricool.
 - Blend two brands in one plan.
 - Rename a post's code after the campaign is made.
+- Plan a release post again that the release plan already made, or make a campaign beside a release project.
 - Make an area or a campaign for a brand that FIRST SESSION has not set up.
 
 ## Tools
 
-Reads: `skill_switch`, `list_projects`, `list_tasks`, `search_records`; Metricool `getBrandSettings`, `getBestTimeToPostByNetwork`. Writes: `make_project_with_tasks`, `make_task` (one added post).
+Reads: `skill_switch`, `list_projects`, `list_tasks`, `search_records`, and for a release post `list_pieces` and `show_social_month`; Metricool `getBrandSettings`, `getBestTimeToPostByNetwork`. Writes: `make_project_with_tasks`, `make_task` (one added post, or a release post brought in with `piece_id`, on the person's yes).

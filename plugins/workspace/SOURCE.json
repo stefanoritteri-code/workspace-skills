@@ -1,5 +1,5 @@
 {
-  "commit": "9b7f714871488eb1d2841adfdfe23f1330bfc06f",
+  "commit": "d945f920aa68fc37ab2fb1a798fe74d0191b1d18",
   "files": {
     "skills/coach/SKILL.md": "84e99c4a2c3a44c38ebb8c7219acd8494e162d6c132ae7896946e5c33a967c3a",
     "skills/coach/references/access.md": "5145641a31520044eb80f9aa55d5e96ed18aba2c12a537adc72a0feac778fecb",
@@ -77,22 +77,25 @@
     "skills/social-studio-first-session/SKILL.md": "32259e13d691924422841103e393596f71ec6b0404e2a9d48aaf00e424ef17fa",
     "skills/social-studio-first-session/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/social-studio-first-session/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/social-studio-metricool-handover/SKILL.md": "606bddb1cfc23da52cf5f34367843c97cb8915e83847f6f0404c93855edb759f",
+    "skills/social-studio-metricool-handover/SKILL.md": "1b31c0f0fcc52868ddad2ed0c35c314a0df600de45c5ecbe7d2e640d0f95152b",
     "skills/social-studio-metricool-handover/references/SHARED.md": "77459996c986e3e445816332e07c1fcfa7342905ad0cb146f4eec242140958df",
     "skills/social-studio-metricool-handover/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/social-studio-metricool-handover/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/social-studio-month-plan/SKILL.md": "c6f184ee9f21f003305beeb2f8630d15e169e0123cf0c44f3329cb8cfcd77997",
+    "skills/social-studio-metricool-handover/references/release-posts.md": "16eb13b52450f7d9a54ed5f980cf10ebbb91432e6e6aae8d39b6764c66149817",
+    "skills/social-studio-month-plan/SKILL.md": "febd960039f49c3bb190d3c5c909cae23a8423192651c77e78cef5502357380b",
     "skills/social-studio-month-plan/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/social-studio-month-plan/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
+    "skills/social-studio-month-plan/references/release-posts.md": "16eb13b52450f7d9a54ed5f980cf10ebbb91432e6e6aae8d39b6764c66149817",
     "skills/social-studio-month-results/SKILL.md": "bd7cf999bf0feb7341fd1b9284ce657bc2e0dca1f18cfdef7cd9a1de92628245",
     "skills/social-studio-month-results/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/social-studio-month-results/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
     "skills/social-studio-pictures/SKILL.md": "5b5493e1cd1ff581213e5b216ab5cb5f014261493300253b9efcff9b4d9fec9a",
     "skills/social-studio-pictures/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/social-studio-pictures/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/social-studio-posts/SKILL.md": "7c6c387ce3984391f128e79133cc27aae1875d9d886f55b78cee9faba0769ddb",
+    "skills/social-studio-posts/SKILL.md": "ffb6d4783582620360bd2729f5ba662e449540269c9b03f39f84013fd26c2f64",
     "skills/social-studio-posts/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/social-studio-posts/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
+    "skills/social-studio-posts/references/release-posts.md": "16eb13b52450f7d9a54ed5f980cf10ebbb91432e6e6aae8d39b6764c66149817",
     "skills/visual-design/SKILL.md": "d7834d2793e4aaab416eae4d32d86996d80154da0dfbbc60fd14cee5a4be9e2d",
     "skills/visual-design/references/access.md": "5145641a31520044eb80f9aa55d5e96ed18aba2c12a537adc72a0feac778fecb",
     "skills/visual-design/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
@@ -204,5 +207,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "e2b410866d8ccc5781a45166a4f499a7e4eb50af"
+  "tree": "3fd2b96e49e85c066c5a4eea0021de0bca9ccb80"
 }
