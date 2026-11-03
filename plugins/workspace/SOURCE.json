@@ -1,6 +1,8 @@
 {
-  "commit": "d945f920aa68fc37ab2fb1a798fe74d0191b1d18",
+  "commit": "6914aeeeb846a8286caac996e36ae30beba8ecf7",
   "files": {
+    "skills/aim-higher/SKILL.md": "5d05f1eca426aad6549744be20f4496c06ba6de70741bafef9f06e2908a33a89",
+    "skills/aim-higher/references/credits.md": "a4dc1dc598c4f2e413703eadf2c340dfde64808e16b39864bebb3fab0141a18f",
     "skills/coach/SKILL.md": "84e99c4a2c3a44c38ebb8c7219acd8494e162d6c132ae7896946e5c33a967c3a",
     "skills/coach/references/access.md": "5145641a31520044eb80f9aa55d5e96ed18aba2c12a537adc72a0feac778fecb",
     "skills/coach/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
@@ -168,6 +170,8 @@
     "skills/writing-pack-product-design/references/offer.md": "6a2969f8323f59f06a2b050483ae84ccc5044c709311438bb1a051a69947bdae",
     "skills/writing-pack-product-design/references/product-shape.md": "8511429f9f0bafb5dffac89340bcf368968ba992846eff4dcd9e8943fc25b099",
     "skills/writing-pack-product-design/references/worked-examples.md": "a430a1e6d90bff70c2edd83ddc8798e3ff2753b3cc154652cb766f635369cc61",
+    "skills/writing-pack-short-book/SKILL.md": "ad34d99e2bfeac65dea91568597144950708bf6b87a20dd00ced93a6eaf5f0ee",
+    "skills/writing-pack-short-book/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/writing-pack-substack-newsletter/SKILL.md": "b566202705e654b762ec8e71a86302ad235f749f01cb8442d9b902efd5307cda",
     "skills/writing-pack-substack-newsletter/references/argument-evidence-originality.md": "4681c6876ca8bef15d4d9a560fd927a8e0e65c17ff0658122bebf037229bf2fa",
     "skills/writing-pack-substack-newsletter/references/article-delivery-contract.md": "9a02e815db46f00bf5fc668e3a2f8c8d7af3d1fbaf591727a891b2ab371109fb",
@@ -207,5 +211,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "3fd2b96e49e85c066c5a4eea0021de0bca9ccb80"
+  "tree": "0418083cab68d8e2c790b682b6c547e2301a8fc5"
 }
