@@ -1,6 +1,8 @@
 {
-  "commit": "6914aeeeb846a8286caac996e36ae30beba8ecf7",
+  "commit": "5929f348c73f6ae5997036eb97024aef1b189cbc",
   "files": {
+    "skills/ai-writing-cleanup/SKILL.md": "fe7231e6741b6e82121f826a44cff3088997bd929cc9a9912afe078a41a886ba",
+    "skills/ai-writing-cleanup/references/credits.md": "af605f0c94ec909e2f149dbd42273c0f090f5b608dccc6e1ed89c059cad8f79e",
     "skills/aim-higher/SKILL.md": "5d05f1eca426aad6549744be20f4496c06ba6de70741bafef9f06e2908a33a89",
     "skills/aim-higher/references/credits.md": "a4dc1dc598c4f2e413703eadf2c340dfde64808e16b39864bebb3fab0141a18f",
     "skills/coach/SKILL.md": "84e99c4a2c3a44c38ebb8c7219acd8494e162d6c132ae7896946e5c33a967c3a",
@@ -211,5 +213,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "0418083cab68d8e2c790b682b6c547e2301a8fc5"
+  "tree": "7968837552502e22ff6c38954fc9bfa821d664f4"
 }
