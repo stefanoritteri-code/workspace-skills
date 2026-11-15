@@ -1,5 +1,5 @@
 {
-  "commit": "1a6ce3797051fab88ac6a8a6088c8a8498576c1e",
+  "commit": "87f771200bffd53a58caad03da4f231e6535a78a",
   "files": {
     "skills/ai-writing-cleanup/SKILL.md": "fe7231e6741b6e82121f826a44cff3088997bd929cc9a9912afe078a41a886ba",
     "skills/ai-writing-cleanup/references/credits.md": "af605f0c94ec909e2f149dbd42273c0f090f5b608dccc6e1ed89c059cad8f79e",
@@ -100,27 +100,27 @@
     "skills/social-studio-posts/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/social-studio-posts/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
     "skills/social-studio-posts/references/release-posts.md": "16eb13b52450f7d9a54ed5f980cf10ebbb91432e6e6aae8d39b6764c66149817",
-    "skills/team-bookkeeper/SKILL.md": "4e477b519dd975f4349cb7e45f14ffbb8744769ce59d6126724df5aca08170a9",
+    "skills/team-bookkeeper/SKILL.md": "17c1a2fbe44120010c69a9150ab04b9e440824979da9201452c51261c62e0720",
     "skills/team-bookkeeper/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-bookkeeper/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-bookkeeper/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/team-chief-of-staff/SKILL.md": "ec290da0270f12330bc993cd8a6bc492c903104b6419669a7615b71e52e334ea",
+    "skills/team-chief-of-staff/SKILL.md": "63bd53da878e41129b8facc6c8210cfa7044af63a00712532abbed37b631f2d9",
     "skills/team-chief-of-staff/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-chief-of-staff/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-chief-of-staff/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/team-executive-assistant/SKILL.md": "0cdef0b82ac22d6488ae70aa6b101c6a18b29f70c98e4cdb8e2d29bfa868a026",
+    "skills/team-executive-assistant/SKILL.md": "fe30cf42b90bd3d513eba78b3deae299b343b4451476aa52c38ec829bc7eddfd",
     "skills/team-executive-assistant/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-executive-assistant/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-executive-assistant/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/team-household-manager/SKILL.md": "7660b4ed5c5ba0862ff787c8e05a8e36bd167bdd7dff3b1c0b558632efb8dd94",
+    "skills/team-household-manager/SKILL.md": "c95fcabd4b1c125f6b59f4e5e070b64dc64edfc5721e61a74f43f70471a5cbf9",
     "skills/team-household-manager/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-household-manager/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-household-manager/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/team-project-coordinator/SKILL.md": "28625582c4385b0e2f8eef4d2327342cc68db5d2c10e670a557b4c068a1c6702",
+    "skills/team-project-coordinator/SKILL.md": "39b07b9f760cb5c8878481a0b3e18bc83224d140f4c97c60d312b570895edecb",
     "skills/team-project-coordinator/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-project-coordinator/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-project-coordinator/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/team-researcher/SKILL.md": "70cf5c9f95ab26d06eab384c304017aae0e03e8b8a9ee98aa0afa6ca847d8698",
+    "skills/team-researcher/SKILL.md": "64c6821abc007dfd482071b67b8a38b6239be6e106b4c524bd9cee357e972bf8",
     "skills/team-researcher/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-researcher/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-researcher/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
@@ -237,5 +237,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "78d3eaf61501a4db5015e196eec4a6c5d2ee4394"
+  "tree": "3b64c106473f0a28b9672eb20e50ebae69932f40"
 }
