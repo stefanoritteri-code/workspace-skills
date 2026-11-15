@@ -175,6 +175,8 @@ Before its seats speak the council reads this briefing for the whole picture, an
 
 ## F. Close
 
+Before closing the weekly review, read the thread list and reconcile one loose-ends beat with the owner: resume, park until a date or mark done; keep unknowns visible and linked commitments unchanged, because reviewing a chat is not finishing its work.
+
 **First, when this sitting was the owner's review, the week's overview kept with `keep_reading` (step 4, or the owner's own words below) is what records that the week was looked at.** There is no separate review stamp call: when the overview is the owner's own sentences with nothing added, the `keep_reading` that carries the one `review_source` source is the record. Only when they went through the review with us, the questions asked one at a time, keep the overview as the record of it; ⛔ never because we showed them a summary or composed one as if it were theirs. Read that receipt back in one plain line, naming the week it kept: sat on a Sunday, the week ending that day; sat Monday to Saturday, the week just ended. A refusal, or an act held for the owner's approval, is said as it is.
 
 When the plan was filed, call `show_week` once just before the closing lines, so the owner sees the filed week on its page; when nothing was filed, or that tool is not in this conversation, say nothing about it.

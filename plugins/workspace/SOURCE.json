@@ -1,5 +1,5 @@
 {
-  "commit": "ba6130fa50721e9ba9aafc140fd7313c3b59f529",
+  "commit": "b01eaa6d403cc2903a05a4121586035d4a9bd82e",
   "files": {
     "skills/ai-writing-cleanup/SKILL.md": "fe7231e6741b6e82121f826a44cff3088997bd929cc9a9912afe078a41a886ba",
     "skills/ai-writing-cleanup/references/credits.md": "af605f0c94ec909e2f149dbd42273c0f090f5b608dccc6e1ed89c059cad8f79e",
@@ -12,7 +12,7 @@
     "skills/coach/references/public-methods.md": "b2a1baef74bc81b83b00ba85a470015f08a5c7313f445e9972c919cf905b69ca",
     "skills/coach/references/review.md": "258fdd61a9d070ed189cd36109c6e942a5f65aab63d3f4bc9de3f43d58d59737",
     "skills/coach/references/training-review.md": "c5474e02504b037234d2d7eb515fc8f613434374894b8c5b1e78a0ec85b0fc7a",
-    "skills/day-close/SKILL.md": "ee93a5a2d49d5ca7aa153e47eb67f9ad624886d066bccaaaadccd11cead6eecd",
+    "skills/day-close/SKILL.md": "c8ee3bc3e3bf85ead519a6aad3fa821ef44dd0812cf0bc97e0ff99c23f25f86b",
     "skills/day-close/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/day-close/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/day-close/references/day-record.md": "69942e1183cf3aa1ce95a69e021729a423249b525ff83cbfce2b918cd2a12ce1",
@@ -143,7 +143,7 @@
     "skills/visual-design/references/visual-controls.md": "2410a44ef38fa63345d2d5c61a82f8ded5ae40a96113b7d5c29681f5c77ac563",
     "skills/visual-design/references/visual-reference.md": "ef17421f91234323e498caba289748c1e6d88edf8d52f1d44b652710a84090fc",
     "skills/visual-design/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6",
-    "skills/week/SKILL.md": "efc2aeed1e39702e59fc2e89bae5fb7b2c1f496fb8604fe6af5ff68a28ff03fa",
+    "skills/week/SKILL.md": "bf386e98225b14d9265f70e1f20c69b07a58cf66efabdb649a4da94f3326a0f7",
     "skills/week/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/week/references/change-request.md": "58a26ed1316f341457967464a2770b20277ff855234e63a22ff8ef4f8d2f4346",
     "skills/week/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
@@ -237,5 +237,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "d427b2db8eb5da94222f35434511b7a85b109249"
+  "tree": "eb6dad7552514275fb9b13f59b8384387d587cba"
 }
