@@ -76,6 +76,8 @@ When there is room and the owner is not tired, ask once: “Anything from today 
 
 ## 6. Close
 
+Before closing the day, read the thread list and ask once which loose end to resume, park until a date or mark done; apply only the owner's reply to its thread card, because an unread or unfinished conversation is not a completed commitment.
+
 Report what moved, what was filed, what is open, what is waiting and on whom, and what is tomorrow, in that order, in plain words and without ids. ⚠ IF ANYTHING AT ALL WAS WRITTEN TONIGHT — a task made, a wait opened, a task closed, a wait lifted — call `list_tasks` and `list_waits` AGAIN and report what they say now. The section 0 lists were read before those writes, so reporting from them is the same blindness one step later. Only when nothing was written do the section 0 lists still stand. Name held or uncertain acts as such.
 
 Then, where the owner watches an engine room, the machinery from the `status` call: **as many lines as there are loud engines, each in its own words**, and then how many could not be established, with the reason. ⛔ NO LENGTH BUDGET HERE, and that is deliberate: a budget written beside a fidelity rule wins, and the read would keep two engines and drop the rest. One evening seventeen engines were loud at once, and a budget would have dropped most of them. Never softened, never merged, and never a claim that anything is fine. An engine loud and stale is said as both. Engines and flags are the operator's; read the findings here, and when something is the operator's, follow the room instruction: say it once, do what can be done here, offer once to file it.
