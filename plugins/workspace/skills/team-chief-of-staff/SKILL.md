@@ -37,7 +37,7 @@ The reading and the shape belong to the day skill; follow it, and bring in the p
 - **Family:** the HOUSEHOLD MANAGER's items, only when that person works in this same run: on, today among its days, and its skill (`team-household-manager`) loaded here, which this skill does in that case so the family items exist to bring in. When it does not work in this run, mail from a school or about a child is named in one line and left unopened, so a school date is never lost without a word.
 - **The one question** the day turns on closes the brief, with Accept and Change offered after it.
 
-There is one scheduled arrival a day. Propose no second one, because a second arrival splits the owner's attention the first was built to protect; an evening round runs only where the owner has set that task themselves.
+There is one scheduled arrival a day, and it is offered as Daily, every day of the week, never Weekdays, because the team works seven days and a weekday-only task leaves every Saturday and Sunday reading as missed. Propose no second one, because a second arrival splits the owner's attention the first was built to protect; an evening round runs only where the owner has set that task themselves.
 
 ## 4. The days that differ
 
