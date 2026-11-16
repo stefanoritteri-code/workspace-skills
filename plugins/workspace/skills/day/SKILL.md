@@ -1,6 +1,6 @@
 ---
 name: day
-description: "The morning read and the day's plan. Use when the owner opens the day or asks what it holds — English: “morning”, “Morning — brief me”, “brief me”, “what's on”, “what needs me today”, “plan my day”; Italian: «buongiorno, fammi il punto», «fammi il punto sulla giornata», «com’è la giornata?», «cosa richiede la mia attenzione oggi?», «cosa richiede me oggi?», «pianifichiamo la giornata». Reads as a chief of staff's brief in one fixed shape, under two minutes: the headline, what was done overnight, what is ready for the owner's yes, the owner's decisions, yesterday in three lines, the plan by time block with protected time first, the one question the day turns on, one closing line of what was read; the machinery in one line only where the owner has an engine room. Drafts up to three replies, never sent; files nothing else but the day it proposes and the day the owner accepts. Closing the day is day-close; a greeting in the middle of other work does not start this."
+description: "The morning read and the day's plan. Use when the owner opens the day or asks what it holds — English: “morning”, “Morning — brief me”, “brief me”, “what's on”, “what needs me today”, “plan my day”, “show me my day”; Italian: «buongiorno, fammi il punto», «fammi il punto sulla giornata», «com’è la giornata?», «cosa richiede la mia attenzione oggi?», «cosa richiede me oggi?», «pianifichiamo la giornata», «fammi vedere la giornata». A chief of staff's brief in one fixed shape, under two minutes: the headline, what was done overnight, what is ready for the owner's yes, the owner's decisions, yesterday in three lines, the plan by time block with protected time first, the one question the day turns on, one closing line of what was read; the machinery in one line only where the owner has an engine room. Drafts up to three replies, never sent; files nothing else but the day it proposes and the day the owner accepts. Closing the day is day-close; a greeting in the middle of other work does not start this."
 ---
 
 # Day
@@ -87,6 +87,10 @@ Read: the calendar for 48 hours, five mails, the open tasks, two waits. Every so
 ```
 
 The day page shows only the short note (section 6): for the first example, «The review draft has to reach the client before 14:00.» and, on its own line, «Today hinges on keeping the late morning free for it.» The plan and the rest come from the day's lines, not from the note.
+
+## Only a look at the day
+
+When the owner only asks to see the day (“show me my day”, «fammi vedere la giornata»), there is no brief and nothing is proposed or filed: read and draw today's page as [pages.md](references/pages.md) says, then stop. The brief below ends with the same page.
 
 ## 0. Two rules that override the rest
 
@@ -189,7 +193,7 @@ Close with a short closing line saying what this read actually rests on, written
 
 Be brief; it is a receipt, not a second brief. Name the operator's work; it can be filed after the read on the owner's word.
 
-When the read is done, after the closing line, call `show_today` once so the owner has today on its page at a glance; where that tool is not in this conversation, say nothing about it and end as usual.
+When the read is done, after the closing line, draw today's page once as [pages.md](references/pages.md) says, so the owner has today at a glance; where artifacts are not offered in this conversation, say nothing about it and end as usual.
 
 ## Weekly story question — after the close
 
