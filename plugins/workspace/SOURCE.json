@@ -1,5 +1,5 @@
 {
-  "commit": "869bfa84f25da6e6adc6e08b6df1a8fb6abeab3d",
+  "commit": "73d3d636b2e58b4e1244f41bacf78de5743473bb",
   "files": {
     "skills/ai-writing-cleanup/SKILL.md": "fe7231e6741b6e82121f826a44cff3088997bd929cc9a9912afe078a41a886ba",
     "skills/ai-writing-cleanup/references/credits.md": "af605f0c94ec909e2f149dbd42273c0f090f5b608dccc6e1ed89c059cad8f79e",
@@ -17,11 +17,12 @@
     "skills/day-close/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/day-close/references/day-record.md": "69942e1183cf3aa1ce95a69e021729a423249b525ff83cbfce2b918cd2a12ce1",
     "skills/day-close/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/day/SKILL.md": "b44356c639e3c212d7b0866a09ab014d7e4738cb835c50b13de1e7acde9928e2",
+    "skills/day/SKILL.md": "a647e009631da08f0cda9dfa3eb83f30fccc8156aee77d377dc79e03b7505074",
     "skills/day/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/day/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/day/references/day-record.md": "69942e1183cf3aa1ce95a69e021729a423249b525ff83cbfce2b918cd2a12ce1",
     "skills/day/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
+    "skills/day/references/pages.md": "ff53e2a33427cffa0de9892a65829cc252e35bc085beaa56e2ecd037e6f9cc35",
     "skills/decision-panel/SKILL.md": "e4cfd0def7caf21c82ab346e5e7778e0c29020cf2ed9fb6d7837f695b096d55b",
     "skills/decision-panel/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/decision-panel/references/calibration.md": "9a0b13e7d58e1d3f3a24c083c4a40cde9caa7d59a9d82589727070bc30d3af70",
@@ -143,12 +144,13 @@
     "skills/visual-design/references/visual-controls.md": "2410a44ef38fa63345d2d5c61a82f8ded5ae40a96113b7d5c29681f5c77ac563",
     "skills/visual-design/references/visual-reference.md": "ef17421f91234323e498caba289748c1e6d88edf8d52f1d44b652710a84090fc",
     "skills/visual-design/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6",
-    "skills/week/SKILL.md": "bf386e98225b14d9265f70e1f20c69b07a58cf66efabdb649a4da94f3326a0f7",
+    "skills/week/SKILL.md": "d2eafa6d9830f8e1a005400ba54110fb088d175ed6ef63b3e5dcb8aa4442e941",
     "skills/week/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/week/references/change-request.md": "58a26ed1316f341457967464a2770b20277ff855234e63a22ff8ef4f8d2f4346",
     "skills/week/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/week/references/day-record.md": "69942e1183cf3aa1ce95a69e021729a423249b525ff83cbfce2b918cd2a12ce1",
     "skills/week/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
+    "skills/week/references/pages.md": "ff53e2a33427cffa0de9892a65829cc252e35bc085beaa56e2ecd037e6f9cc35",
     "skills/writing-pack-idea-development/SKILL.md": "a734f87d3868cb26052811965b09bdff045b776eed1ae1f22370a6b824f4a30f",
     "skills/writing-pack-idea-development/references/assumption-contradiction-mapping.md": "708fbea36b6712850fef294640765f8ad1bf507e53692d90c1e98802d330dcb9",
     "skills/writing-pack-idea-development/references/brain-retrieval-provenance.md": "13e849c160b4f1f6d58bfaaae273502d179306875578d1ced9d3d1b61dc5e50f",
@@ -237,5 +239,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "85bc889e29ebdc08a93fba8cb5f517dba3e1a762"
+  "tree": "fe8979d823f557b664a862e8c67f0a53e254b805"
 }
