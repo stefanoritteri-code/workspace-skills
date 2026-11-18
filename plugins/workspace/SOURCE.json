@@ -1,5 +1,5 @@
 {
-  "commit": "52b9e420d622f73a6996b42c24849408b39bdf70",
+  "commit": "ac203db393cdeb594f3b65dca2ef23edbb8178cf",
   "files": {
     "skills/ai-writing-cleanup/SKILL.md": "fe7231e6741b6e82121f826a44cff3088997bd929cc9a9912afe078a41a886ba",
     "skills/ai-writing-cleanup/references/credits.md": "af605f0c94ec909e2f149dbd42273c0f090f5b608dccc6e1ed89c059cad8f79e",
@@ -105,7 +105,7 @@
     "skills/team-bookkeeper/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-bookkeeper/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-bookkeeper/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/team-chief-of-staff/SKILL.md": "36718af3f0cb524bb8f4a9ec01ecc830163654ed44d31becaffa0544ec0c6f4f",
+    "skills/team-chief-of-staff/SKILL.md": "59cfeeddd021a394afebfafff873ede776f044550d8edd91fd0c629da7f933a6",
     "skills/team-chief-of-staff/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-chief-of-staff/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-chief-of-staff/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
@@ -239,5 +239,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "1bb9c58c6157ec086ec4b421d60634e35d031f30"
+  "tree": "dd90778768a8423c71cd0610dd23b1fae1eff2d1"
 }
