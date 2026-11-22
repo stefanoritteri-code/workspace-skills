@@ -1,5 +1,5 @@
 {
-  "commit": "8891820937546f16aa1a6f40c4dc05adc00a354e",
+  "commit": "63f6f2f83eaab40715b2d7a465d73a82fa369548",
   "files": {
     "skills/ai-writing-cleanup/SKILL.md": "fe7231e6741b6e82121f826a44cff3088997bd929cc9a9912afe078a41a886ba",
     "skills/ai-writing-cleanup/references/credits.md": "af605f0c94ec909e2f149dbd42273c0f090f5b608dccc6e1ed89c059cad8f79e",
@@ -17,7 +17,7 @@
     "skills/day-close/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/day-close/references/day-record.md": "69942e1183cf3aa1ce95a69e021729a423249b525ff83cbfce2b918cd2a12ce1",
     "skills/day-close/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/day/SKILL.md": "0a9f20df6e0f49d4157d0e1e4ff27dc522d6bba6c6e2592913aabfa0021ba460",
+    "skills/day/SKILL.md": "0f36f4d04ad95975ba7516842d438c932c220db58e910e17424e9aeafa050d28",
     "skills/day/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/day/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/day/references/day-record.md": "69942e1183cf3aa1ce95a69e021729a423249b525ff83cbfce2b918cd2a12ce1",
@@ -239,5 +239,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "371d4e685917335a995988e9a682ba79a540c7ae"
+  "tree": "3ec9c44b7c0a78befd5b6f2597ce5e0aebeee3f0"
 }
