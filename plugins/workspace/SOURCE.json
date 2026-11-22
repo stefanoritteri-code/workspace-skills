@@ -1,5 +1,5 @@
 {
-  "commit": "9efd138bc759eb6c28f3aa787fc05d64a6f805a7",
+  "commit": "325160d5a272ed2ca231afeebb824369fc19c297",
   "files": {
     "skills/ai-writing-cleanup/SKILL.md": "fe7231e6741b6e82121f826a44cff3088997bd929cc9a9912afe078a41a886ba",
     "skills/ai-writing-cleanup/references/credits.md": "af605f0c94ec909e2f149dbd42273c0f090f5b608dccc6e1ed89c059cad8f79e",
@@ -121,7 +121,7 @@
     "skills/team-project-coordinator/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-project-coordinator/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
     "skills/team-project-coordinator/references/landing.md": "47e7e0329ebe0b21f7b2f3c9d8f1ef0c891318db309eed297ce9fc0035913cf6",
-    "skills/team-project-coordinator/references/sessions.md": "e6313fd12354212df6fb9541aa6dc844dc9f586211a9fc89e268fccbaaa90c61",
+    "skills/team-project-coordinator/references/sessions.md": "789698b1e969c45da44f203bc1c4b2c3a295f79646eae57230cca1d93c52803c",
     "skills/team-researcher/SKILL.md": "c0a7bcc172b3629c37892583a6bd23ca241ef9ab5bad1a9f2bc5ed665ab29b0f",
     "skills/team-researcher/references/access.md": "1487b5d9b2d2373ad32051be2e93f9d8139a9e14a6eacdfdc5c88e192223bde6",
     "skills/team-researcher/references/claude-native.md": "d139d677a2f2f728d4b8acd96ed0d854ddc8558693d11d7473aa711f137d6c2b",
@@ -240,5 +240,5 @@
     "skills/writing/references/voice.md": "b5706ed89575fab71300b64c4ec634910beb357e8b9c33e7c404645100fb3be2",
     "skills/writing/references/work-lifecycle.md": "3eaf9e6c6be1482ce5a8098e50cf5ef140dbe776ca7068954b4838a61310bcf6"
   },
-  "tree": "480fdc297e6a1dc0a3155e6c6c10ce932b25e5f9"
+  "tree": "dacc090b2908857b46b09d9c908c2e06cbe12675"
 }
