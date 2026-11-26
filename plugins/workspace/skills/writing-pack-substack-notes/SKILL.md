@@ -1,6 +1,6 @@
 ---
 name: writing-pack-substack-notes
-description: "WRITING PACK: turns ideas, a newsletter, the owner's notes or a reference Note into a balanced portfolio of six original Substack Notes (Discovery, Depth, Voice, Publication Bridge, Conversation), and critiques existing Notes. Use when the owner says \"Substack Notes\", \"turn this into Notes\", \"a week of Notes from this issue\", \"Notes for my newsletter\" (or for it by its own name), \"critique my Notes\", or calls \"ideas lab substack notes\". Italian: «facciamo delle Notes per Substack», «trasforma questo in Notes». Not for the full newsletter issue (writing-pack-substack-newsletter). Also answers to its former name, “ideas lab substack notes”."
+description: "WRITING PACK: turns ideas, a newsletter or notes into six original Substack Notes, and critiques existing Notes. English: “Substack Notes”, “turn this into Notes”, “a week of Notes from this issue”, “Notes for my newsletter”, “critique my Notes”, “ideas lab substack notes”. Italian: «facciamo delle Notes per Substack», «trasforma questo in Notes». Not for the full newsletter issue (writing-pack-substack-newsletter)."
 ---
 
 ## Before anything else: is this skill on here?

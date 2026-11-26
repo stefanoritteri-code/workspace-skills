@@ -1,6 +1,6 @@
 ---
 name: writing-pack-offer-design
-description: "WRITING PACK: turns a product or service into an offer the market finds hard to refuse, using the value equation, a named mechanism, honest risk reversal and real enhancers, and delivers an Offer Blueprint. Use when the owner says \"build the offer\", \"make this offer irresistible\", \"audit my offer\", \"sharpen my guarantee / bonuses\", \"Offer Blueprint for…\", \"how should I price/package this\", or calls \"ideas lab offer architect\". Italian: «costruiamo l'offerta», «rendi l'offerta irresistibile», «rivedi la mia offerta». Not for the sales page (writing-pack-landing-page-copy), content strategy or ads. Also answers to its former name, “ideas lab offer architect”."
+description: "WRITING PACK: turns a product or service into an offer the market finds hard to refuse and delivers an Offer Blueprint. English: “build the offer”, “make this offer irresistible”, “audit my offer”, “sharpen my guarantee / bonuses”, “Offer Blueprint for…”, “how should I price/package this”, “ideas lab offer architect”. Italian: «costruiamo l'offerta», «rendi l'offerta irresistibile», «rivedi la mia offerta». Not for the sales page (writing-pack-landing-page-copy), content strategy or ads."
 ---
 
 ## Before anything else: is this skill on here?

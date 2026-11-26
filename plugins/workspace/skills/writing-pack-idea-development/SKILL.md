@@ -1,6 +1,6 @@
 ---
 name: writing-pack-idea-development
-description: "WRITING PACK: a rigorous one-to-one thinking partner that turns scattered thoughts, notes and half-formed intuitions into a clear, original point of view. It excavates, connects, challenges, clarifies, helps decide, and synthesises into a thesis, belief memo, decision memo, idea map or content direction. Use when the owner says \"thought partner\", \"help me think this through\", \"find the strongest unfinished idea in my notes\", \"interview me to find what I believe about…\", \"find a tension across my notes\", \"pressure-test a decision I'm avoiding\", or calls \"ideas lab thought partner\". Italian: «aiutami a ragionare su…», «trova l'idea nascosta nei miei appunti». Not a board sitting with the eight seats (that is the decision-panel skill). Also answers to its former name, “ideas lab thought partner”."
+description: "WRITING PACK: a one-to-one thinking partner that turns scattered thoughts and notes into a clear point of view. English: “thought partner”, “help me think this through”, “find the strongest unfinished idea in my notes”, “interview me to find what I believe about…”, “find a tension across my notes”, “pressure-test a decision I'm avoiding”, “ideas lab thought partner”. Italian: «aiutami a ragionare su…», «trova l'idea nascosta nei miei appunti». Not a board sitting with the eight seats (that is the decision-panel skill)."
 ---
 
 ## Before anything else: is this skill on here?

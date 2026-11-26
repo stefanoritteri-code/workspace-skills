@@ -1,6 +1,6 @@
 ---
 name: finance
-description: "Prepare invoice chases and period close from supplied documents, with traceable balances and no bank access or payments. Italian: «facciamo il punto sui conti», «prepara un sollecito», «chiudiamo il periodo», «controlla questi conti». English: “review these invoices and accounts”, “prepare an invoice chase”, “close the period”, “check these figures”. Finance leads chases involving balances, lateness or disputes, including “in my voice”; Writing may support tone or handle pure wording after verification. Administrative preparation, not investment or tax advice."
+description: "Prepare invoice chases and period close from supplied documents, with traceable balances and no bank access or payments. English: “review these invoices and accounts”, “prepare an invoice chase”, “close the period”, “check these figures”. Italian: «facciamo il punto sui conti», «prepara un sollecito», «chiudiamo il periodo», «controlla questi conti». Finance leads chases involving balances, lateness or disputes, including “in my voice”; Writing may support tone or handle pure wording after verification. Administrative preparation, not investment or tax advice."
 ---
 
 # Finance

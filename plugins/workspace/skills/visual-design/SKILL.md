@@ -1,6 +1,6 @@
 ---
 name: visual-design
-description: "Art direction, design and websites, photograph selection/critique, visual references, film concept/treatment/board and review. Italian: «direttore artistico, lavoriamo su…», «lavoriamo al sito», «guardiamo queste fotografie», «decodifica questo riferimento visivo», «prepariamo il film», «controlla la qualità del design». English: “art direct this”, “work on the website”, “review these photographs”, “decode this visual reference”, “plan the film”, “review the design”. Also answers to its former name, “visual studio”."
+description: "Art direction, design and websites, photograph selection/critique, visual references, film concept/treatment/board and review. English: “art direct this”, “work on the website”, “review these photographs”, “decode this visual reference”, “plan the film”, “review the design”, “visual studio”. Italian: «direttore artistico, lavoriamo su…», «lavoriamo al sito», «guardiamo queste fotografie», «decodifica questo riferimento visivo», «prepariamo il film», «controlla la qualità del design»."
 ---
 
 # Visual Design

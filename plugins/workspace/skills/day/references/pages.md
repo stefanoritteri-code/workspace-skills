@@ -25,6 +25,12 @@ Tasks under a project that was put away are left out by the lists; say nothing i
 
 **The page reports what it read and never grades itself.** It never says that a build, a release or a check passed, that a pass mark was met or that a tab may close, because a check is judged against its pass mark by whoever set it, and a page that declares its own pass hides the miss it was drawn to show.
 
+## Every page says where its data lives
+
+End every page, and every small tool made for the owner, with one short line holding three answers: where its data lives, who can see or change it, and how to get it out. Say "unknown" for any answer that was not checked, because a page that guesses about its own data teaches the owner to trust what nobody looked at. For example: “Data: your records · seen and changed by: unknown · taking it out: unknown.” / «Dati: i tuoi archivi · visto e modificato da: sconosciuto · come portarli fuori: sconosciuto.» Name a stored copy (a page's own saved data) separately from the records it was drawn from. Never promise that everything can be taken out; say only what was checked.
+
+Choose what to make by this rule, because the wrong container is the commonest reason a small tool has to be rebuilt. A grid of numbers is a Sheet. Logic and buttons are a page. A tool many people will use for a long time is real software, and the right answer is to say so instead of building it as a page. For a document or a deck, check which document, presentation and export tools this chat offers, and use those first.
+
 ## Changes happen in the chat
 
 When the owner asks to change something they see on a page (close a task, move a date, add something), do it through the door's own act in the chat, with its approval box when it asks, and read the receipt. Then read the record again and draw the page again, so the page is never older than the change. A held request has changed nothing: the page shows it as waiting for approval, never as done. Never draw a button that claims to act; a page button has no server action.

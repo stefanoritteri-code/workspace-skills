@@ -1,6 +1,6 @@
 ---
 name: coach
-description: "Review the owner’s filed training and health notes, assess progress and propose training-plan and habit changes using chosen authors’ public methods. Italian: «rivediamo il mio allenamento», «come sta andando l’allenamento», «adattiamo il piano», «lavoriamo sulle mie abitudini». English: “review my training”, “how is my training going”, “adjust my training plan”, “work on my habits”. A distinct coaching skill, with no medical advice or live app feed."
+description: "Review the owner’s filed training and health notes and propose training-plan and habit changes. English: “review my training”, “how is my training going”, “adjust my training plan”, “work on my habits”. Italian: «rivediamo il mio allenamento», «come sta andando l’allenamento», «adattiamo il piano», «lavoriamo sulle mie abitudini». A distinct coaching skill, with no medical advice or live app feed."
 ---
 
 # Coach

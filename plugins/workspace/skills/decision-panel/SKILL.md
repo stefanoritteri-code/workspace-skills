@@ -1,6 +1,6 @@
 ---
 name: decision-panel
-description: "The board: a staged sitting that goes deep on ONE question — for thinking, planning, setting up a project or reviewing a choice — with five structural roles and eight named seats, real dissent, the Chairman's recommendation, a decision in the owner's words and a 60-day check. English: “the board”, “board this”, “council this”, “convene the board”, “convene the council”, “Convene the board on: …”, “sit the board on …”, “pressure-test this”, “war room this”, “stress-test this”, “debate this”, “debate this decision”. Italian: «il consiglio», «riuniamo il consiglio», «convoca il consiglio», «Convoca il consiglio su: …», «il concilio», «consiglio su…», «mettiamo alla prova questa decisione». Ordinary advice or a review of a piece of work does not start a full sitting. Also answers to its former name, “council”."
+description: "The board: a staged sitting that goes deep on ONE question, with eight named seats, real dissent, a recommendation and a 60-day check. English: “the board”, “board this”, “council this”, “convene the board”, “convene the council”, “sit the board on …”, “pressure-test this”, “war room this”, “stress-test this”, “debate this”, “council”. Italian: «il consiglio», «riuniamo il consiglio», «convoca il consiglio», «il concilio», «consiglio su…», «mettiamo alla prova questa decisione». Ordinary advice or a review of a piece of work does not start a full sitting."
 ---
 
 # The board sits in the room

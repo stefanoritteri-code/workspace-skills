@@ -1,6 +1,6 @@
 ---
 name: research
-description: "Investigate with traceable sources and exact supporting excerpts, or compile a dated briefing from supplied material. Italian: «fai una ricerca su…», «indaga su…», «cosa sappiamo di…», «prepara un briefing», «controlla questa ricerca». English: “research”, “look into”, “what do we know about”, “prepare a briefing”, “review this research”. Musical and visual decoding belong to their craft modes."
+description: "Investigate with traceable sources and exact supporting excerpts, or compile a dated briefing from supplied material. English: “research”, “look into”, “what do we know about”, “prepare a briefing”, “review this research”. Italian: «fai una ricerca su…», «indaga su…», «cosa sappiamo di…», «prepara un briefing», «controlla questa ricerca». Musical and visual decoding belong to their craft modes."
 ---
 
 # Research

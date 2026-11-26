@@ -1,6 +1,6 @@
 ---
 name: ai-writing-cleanup
-description: "Rewrite AI-sounding text so it reads like the writer without changing what it says. Use when editing or reviewing prose for AI tells: not-X-but-Y contrasts, one-line closers, staged openers, forced triads, dashes everywhere, inflated claims, sales language, stock AI words, bold labels, or filler. Based on Wikipedia's \"Signs of AI writing.\" Also answers to its former name, “humanizer”."
+description: "Rewrite AI-sounding text so it reads like the writer without changing what it says. Fixes AI tells such as not-X-but-Y contrasts, one-line closers, forced triads and stock AI words. English: “humanizer”."
 ---
 
 ## Before anything else: is this skill on here?

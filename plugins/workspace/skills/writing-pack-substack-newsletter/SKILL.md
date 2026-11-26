@@ -1,6 +1,6 @@
 ---
 name: writing-pack-substack-newsletter
-description: "WRITING PACK: turns an idea, the owner's notes, source evidence and reference newsletters into one original, ready-to-publish Substack article in the owner's voice, typically an issue of their own newsletter. Covers direction, titles and subtitles, openings, outline, draft, paywall and revision. Use when the owner says \"newsletter\", \"write this week's issue\" (or the newsletter by its own name), \"turn this into a Substack post\", \"find a newsletter worth writing in my notes\", \"build an issue from this reference\", \"critique my newsletter draft\", or calls \"ideas lab substack newsletter\". Italian: «scriviamo la newsletter», «trasforma questo in un articolo Substack». Not for Substack Notes (writing-pack-substack-notes). Also answers to its former name, “ideas lab substack newsletter”."
+description: "WRITING PACK: turns an idea, notes and sources into one original, ready-to-publish Substack article in the owner's voice. English: “newsletter”, “write this week's issue”, “turn this into a Substack post”, “find a newsletter worth writing in my notes”, “build an issue from this reference”, “critique my newsletter draft”, “ideas lab substack newsletter”. Italian: «scriviamo la newsletter», «trasforma questo in un articolo Substack». Not for Substack Notes (writing-pack-substack-notes)."
 ---
 
 ## Before anything else: is this skill on here?

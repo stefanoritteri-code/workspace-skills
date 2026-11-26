@@ -1,6 +1,6 @@
 ---
 name: social-studio-pictures
-description: "SOCIAL STUDIO: PICTURES. Keeps each picture or video of a planned post on its campaign, one file per picture, so a post's words, pictures and Metricool link are kept together. Checks the file type first (PNG, JPEG, GIF, WebP, MP4, QuickTime or WebM; an iPhone photo is exported as JPEG first), sends the file, and says it is kept only when the receipt says so. Pictures still to come from a photographer are marked as waiting, and released when they arrive. Use when the person says “file the pictures”, “these are for Friday's post”, “keep these photos for the campaign”, “the photographer sent the shots”, “we're waiting on the photos”; Italian: «archivia le foto», «queste sono per il post di venerdì», «il fotografo ha mandato le foto», «aspettiamo le foto». Never makes or edits a picture. Sending a picture to Metricool is SOCIAL STUDIO: METRICOOL HANDOVER, by the person's own Drive or Dropbox link."
+description: "SOCIAL STUDIO: PICTURES. Keeps each picture or video of a planned post on its campaign, one file per picture. English: “file the pictures”, “these are for Friday's post”, “keep these photos for the campaign”, “the photographer sent the shots”, “we're waiting on the photos”. Italian: «archivia le foto», «queste sono per il post di venerdì», «il fotografo ha mandato le foto», «aspettiamo le foto». Never makes or edits a picture. Sending a picture to Metricool is SOCIAL STUDIO: METRICOOL HANDOVER, by the person's own Drive or Dropbox link."
 ---
 
 ## Before anything else: is this skill on here?
@@ -10,6 +10,12 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - Carry on with the skill below ONLY if the answer says this skill is a core skill, or that it is on in this workspace.
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- Checks the file type first (PNG, JPEG, GIF, WebP, MP4, QuickTime or WebM; an iPhone photo is exported as JPEG first), sends the file, and says it is kept only when the receipt says so.
 
 # SOCIAL STUDIO: PICTURES
 

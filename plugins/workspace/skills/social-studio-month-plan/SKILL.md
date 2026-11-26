@@ -1,6 +1,6 @@
 ---
 name: social-studio-month-plan
-description: "SOCIAL STUDIO: MONTH PLAN. Plans a month, a release, a tour or a season of social posts for one brand: reads the brand's rules, the dates that matter (releases, launches, events already on the record) and Metricool's best times to post, proposes a calendar with one dated post per line, and on the person's yes makes it as one campaign with a task per post, so every post shows on the day, the week and the projects pages beside the rest of the work. Adds a single post to a campaign already made. Use when the person says “plan this month's posts”, “a social calendar for the new single”, “a social calendar for the tour”, “plan next month on social”, “add a post on Saturday”; Italian: «pianifica i post del mese», «un calendario social per il nuovo singolo», «un calendario social per il tour», «aggiungi un post sabato». Never touches the Metricool schedule; drafting the words is SOCIAL STUDIO: POSTS; planning the music release is the music skill, whose release posts come in here."
+description: "SOCIAL STUDIO: MONTH PLAN. Plans a month, a release, a tour or a season of social posts for one brand as a calendar with one dated post per line; adds a single post to a campaign already made. English: “plan this month's posts”, “a social calendar for the new single”, “a social calendar for the tour”, “plan next month on social”, “add a post on Saturday”. Italian: «pianifica i post del mese», «un calendario social per il nuovo singolo», «un calendario social per il tour», «aggiungi un post sabato». Never touches the Metricool schedule; drafting the words is SOCIAL STUDIO: POSTS; planning the music release is the music skill, whose release posts come in here."
 ---
 
 ## Before anything else: is this skill on here?
@@ -10,6 +10,12 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - Carry on with the skill below ONLY if the answer says this skill is a core skill, or that it is on in this workspace.
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- on the person's yes makes it as one campaign with a task per post
 
 # SOCIAL STUDIO: MONTH PLAN
 

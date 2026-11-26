@@ -1,6 +1,6 @@
 ---
 name: writing-pack-topic-research
-description: "WRITING PACK: content-market topic research. Maps what is working around a topic across creators and posts, shows where it is crowded or thin, and ranks three to five content opportunities the owner can credibly own, with one recommendation (Topic Research Brief and Topic Opportunity Map). Use when the owner says \"topic research\", \"what's working around a topic\", \"help me choose a topic worth owning\", \"pressure-test this angle against the market\", \"compare these topics\", or calls \"ideas lab topic research\". Italian: «cosa funziona su questo tema», «trova un tema da possedere». For general fact-finding, briefings or sourced investigation, use the room's research skill instead. Also answers to its former name, “ideas lab topic research”."
+description: "WRITING PACK: content-market topic research: what is working around a topic, where it is crowded or thin, and three to five content opportunities. English: “topic research”, “what's working around a topic”, “help me choose a topic worth owning”, “pressure-test this angle against the market”, “compare these topics”, “ideas lab topic research”. Italian: «cosa funziona su questo tema», «trova un tema da possedere». For general fact-finding, briefings or sourced investigation, use the room's research skill instead."
 ---
 
 ## Before anything else: is this skill on here?

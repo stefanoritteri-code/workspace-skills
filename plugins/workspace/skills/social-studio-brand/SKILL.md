@@ -1,6 +1,6 @@
 ---
 name: social-studio-brand
-description: "SOCIAL STUDIO: BRAND. Keeps a brand's social rules and its look after the first session: adds, changes or drops a rule (a never-do, a voice rule, the approver, the rhythm), one rule at a time and only the ones the person accepts, and finds a new style when they want one: three references with reasons, the same post shown old against new, an optional trial of two to four weeks, then adopted in the person's own words or the old look restored. Every change is a dated section in the brand file, so its history stays readable. Use when the person says “my brand rules”, “never post…”, “from now on our posts…”, “find me a new style”, “find me a new direction”, “change the approver”; Italian: «le regole del mio profilo», «non pubblicare mai…», «cerchiamo un nuovo stile», «cambiamo stile», «cambia chi approva». Never touches a post already drafted or sent to Metricool. Setting up from nothing is SOCIAL STUDIO: FIRST SESSION."
+description: "SOCIAL STUDIO: BRAND. Keeps a brand's social rules and its look after the first session, and finds a new style when the person wants one. English: “my brand rules”, “never post…”, “from now on our posts…”, “find me a new style”, “find me a new direction”, “change the approver”. Italian: «le regole del mio profilo», «non pubblicare mai…», «cerchiamo un nuovo stile», «cambiamo stile», «cambia chi approva». Never touches a post already drafted or sent to Metricool. Setting up from nothing is SOCIAL STUDIO: FIRST SESSION."
 ---
 
 ## Before anything else: is this skill on here?
@@ -10,6 +10,13 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - Carry on with the skill below ONLY if the answer says this skill is a core skill, or that it is on in this workspace.
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- one rule at a time and only the ones the person accepts
+- Every change is a dated section in the brand file, so its history stays readable.
 
 # SOCIAL STUDIO: BRAND
 

@@ -1,6 +1,6 @@
 ---
 name: aim-higher
-description: "AIM HIGHER: makes a task or a prompt more ambitious without making it bigger. It finds the goal behind the goal, raises the standard to what the best people in the field would do, brings in the fields that would help, names something other than itself that will show the result is right, and writes the plan and a rewritten prompt. Then it does the work when it was handed a task, or stops after the rewrite when it was handed a prompt. Ambition raises the standard, never the permissions: limits the owner set stay, and it asks first before anything that replaces the ask, spends money or cannot be undone. English: “/be-ambitious”, “be ambitious”, “be more ambitious”, “aim higher”, “raise the bar”, “go deeper on this”, “what's the goal behind the goal”, “make this prompt more ambitious”. Italian: «sii ambizioso», «alza l'asticella», «punta più in alto», «rendi questo prompt più ambizioso»."
+description: "AIM HIGHER: makes a task or a prompt more ambitious without making it bigger, and writes the plan and a rewritten prompt. English: “/be-ambitious”, “be ambitious”, “be more ambitious”, “aim higher”, “raise the bar”, “go deeper on this”, “what's the goal behind the goal”, “make this prompt more ambitious”. Italian: «sii ambizioso», «alza l'asticella», «punta più in alto», «rendi questo prompt più ambizioso». Ambition raises the standard, never the permissions: limits the owner set stay, and it asks first before anything that replaces the ask, spends money or cannot be undone."
 ---
 
 ## Before anything else: is this skill on here?
@@ -11,6 +11,12 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
 
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- Then it does the work when it was handed a task, or stops after the rewrite when it was handed a prompt.
 
 # AIM HIGHER
 
