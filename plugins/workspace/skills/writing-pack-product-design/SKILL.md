@@ -1,6 +1,6 @@
 ---
 name: writing-pack-product-design
-description: "WRITING PACK: turns what the owner (or a client) knows into a product people buy and use: an AI product (a course, library or tool with an AI built from it), a standalone course, or a digital download such as templates, sample packs, swipe files or a Claude skill. Covers the offer, the contents, the product AI, the sales page, the welcome page and testing. Use when the owner says \"product builder\", \"find the product in what I know\", \"turn my course/material into an AI product\", \"sell these files as a download\", \"build a course from…\", \"audit my product and sales page before launch\", or calls \"ideas lab product builder\". Italian: «costruiamo un prodotto», «trasforma il mio metodo in un prodotto». Sharpening only the offer of an existing product is writing-pack-offer-design. Also answers to its former name, “ideas lab product builder”."
+description: "WRITING PACK: turns what the owner or a client knows into a product people buy: an AI product, a course or a digital download. English: “product builder”, “find the product in what I know”, “turn my course/material into an AI product”, “sell these files as a download”, “build a course from…”, “audit my product and sales page before launch”, “ideas lab product builder”. Italian: «costruiamo un prodotto», «trasforma il mio metodo in un prodotto». Sharpening only the offer of an existing product is writing-pack-offer-design."
 ---
 
 ## Before anything else: is this skill on here?

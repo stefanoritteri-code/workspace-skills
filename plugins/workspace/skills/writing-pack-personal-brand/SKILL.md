@@ -1,6 +1,6 @@
 ---
 name: writing-pack-personal-brand
-description: "WRITING PACK: turns experience, interests, story and beliefs into a clear personal-brand strategy and an inexhaustible content system: brand thesis, smallest viable audience, personal monopoly, beliefs and associations, topic tree, post directions and first-month activation. Works for the owner or for a client. Use when the owner says \"personal brand strategy\", \"build my brand from scratch\", \"refine my brand strategy\", \"turn my story into a worldview and topic tree\", \"brand strategy for a client\", or calls \"ideas lab personal brand\". Italian: «strategia del brand personale», «costruiamo il mio brand». Not visual identity or design (the room's visual-design). Also answers to its former name, “ideas lab personal brand”."
+description: "WRITING PACK: turns experience, story and beliefs into a personal-brand strategy and content system, for the owner or a client. English: “personal brand strategy”, “build my brand from scratch”, “refine my brand strategy”, “turn my story into a worldview and topic tree”, “brand strategy for a client”, “ideas lab personal brand”. Italian: «strategia del brand personale», «costruiamo il mio brand». Not visual identity or design (the room's visual-design)."
 ---
 
 ## Before anything else: is this skill on here?

@@ -1,6 +1,6 @@
 ---
 name: writing
-description: "Voice calibration from three or more of the owner's texts; write prose, email, publicity/campaign copy, or review text. Italian: «impara la mia voce da questi tre testi», «scrivilo con la mia voce», «prepara una risposta a…», «prepariamo la visibilità», «scriviamo la campagna», «controlla la qualità di questo testo». English: “calibrate my voice from these three texts”, “write this in my voice”, “draft a reply”, “prepare publicity”, “write campaign copy”, “review this text”. Finance leads invoice chases involving balances, lateness or disputes; Writing handles verified wording or supports voice. Lyrics belong to Music; sending and publishing remain human."
+description: "Voice calibration from three or more of the owner's texts; write prose, email, publicity/campaign copy, or review text. English: “calibrate my voice from these three texts”, “write this in my voice”, “draft a reply”, “prepare publicity”, “write campaign copy”, “review this text”. Italian: «impara la mia voce da questi tre testi», «scrivilo con la mia voce», «prepara una risposta a…», «prepariamo la visibilità», «scriviamo la campagna», «controlla la qualità di questo testo». Finance leads invoice chases involving balances, lateness or disputes; Writing handles verified wording or supports voice. Lyrics belong to Music; sending and publishing remain human."
 ---
 
 # Writing

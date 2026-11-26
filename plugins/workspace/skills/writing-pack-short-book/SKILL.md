@@ -1,6 +1,6 @@
 ---
 name: writing-pack-short-book
-description: "WRITING PACK: plans and drafts a short nonfiction book with the owner, interview first: five book ideas ranked, with real comparable titles marked to check; a one-sentence promise; an outline of eight to ten chapters that asks for the owner's own stories and never invents them; chapter drafts written from the owner's answers, with every factual claim marked to check; an editor's letter; a line edit through the ai-writing-cleanup skill; and an Amazon KDP listing with KDP's current rule on declaring AI-generated content. Use when the owner says \"short book\", \"write my book\", \"plan my book\", \"help me write a short book\", \"outline my book\", \"draft chapter three\", \"editor's letter on my chapter\", or \"KDP listing for my book\". Italian: «scriviamo un libro breve», «pianifichiamo il mio libro», «scriviamo il capitolo tre», «prepariamo la scheda KDP». For a newsletter issue use writing-pack-substack-newsletter; for a single essay or post, the room's writing skill."
+description: "WRITING PACK: plans and drafts a short nonfiction book with the owner, interview first, through to an editor's letter, a line edit and an Amazon KDP listing. English: “short book”, “write my book”, “plan my book”, “help me write a short book”, “outline my book”, “draft chapter three”, “editor's letter on my chapter”, “KDP listing for my book”. Italian: «scriviamo un libro breve», «pianifichiamo il mio libro», «scriviamo il capitolo tre», «prepariamo la scheda KDP». For a newsletter issue use writing-pack-substack-newsletter; for a single essay or post, the room's writing skill."
 ---
 
 ## Before anything else: is this skill on here?
@@ -11,6 +11,13 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
 
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- an outline of eight to ten chapters that asks for the owner's own stories and never invents them
+- chapter drafts written from the owner's answers, with every factual claim marked to check
 
 # WRITING PACK: Short Book
 

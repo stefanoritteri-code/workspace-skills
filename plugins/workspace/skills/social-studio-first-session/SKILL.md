@@ -1,6 +1,6 @@
 ---
 name: social-studio-first-session
-description: "SOCIAL STUDIO: FIRST SESSION. The deep beginning of a person's social media, for one brand at a time, whether they already have a look or have none: a short questionnaire, then two or three short sittings that end in the brand file (audience, the ninety-day result, voice, look, never-dos, references, themes, channels, approver and rhythm), a first fortnight's plan and one practice draft taken all the way to Metricool and deleted again. Picks up where the last sitting stopped. Use when the person says “set up my social media”, “let's start with social”, “start my social media from nothing”, “set up social for an artist or a client”, “carry on with the social setup”; Italian: «iniziamo con i social», «sistemiamo i miei social», «partiamo con i social», «riprendiamo la configurazione dei social». Never publishes anything. Changing rules after setup is SOCIAL STUDIO: BRAND; planning a month is MONTH PLAN."
+description: "SOCIAL STUDIO: FIRST SESSION. The deep beginning of a person's social media, one brand at a time: a questionnaire, short sittings that end in the brand file, a first fortnight's plan. English: “set up my social media”, “let's start with social”, “start my social media from nothing”, “set up social for an artist or a client”, “carry on with the social setup”. Italian: «iniziamo con i social», «sistemiamo i miei social», «partiamo con i social», «riprendiamo la configurazione dei social». Never publishes anything. Changing rules after setup is SOCIAL STUDIO: BRAND; planning a month is MONTH PLAN."
 ---
 
 ## Before anything else: is this skill on here?
@@ -10,6 +10,12 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - Carry on with the skill below ONLY if the answer says this skill is a core skill, or that it is on in this workspace.
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- one practice draft taken all the way to Metricool and deleted again
 
 # SOCIAL STUDIO: FIRST SESSION
 

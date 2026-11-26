@@ -1,6 +1,6 @@
 ---
 name: day-close
-description: "Close the owner's working day. Use when the owner says — English: “close the day”, “Close the day.”, “shutdown”, “wrap up”, “wrap up today”, or that they are done for today; Italian: «chiudiamo la giornata», «chiudi la giornata», «fine giornata», «per oggi ho finito». The board, the waits and the machinery are read first; two questions; decisions, the journal line, tasks and waits filed, tasks closed and waits lifted through the door on the owner's yes only; nothing said today left unfiled without asking; tomorrow proposed; then the push stops. Also answers to its former name, “close the day”."
+description: "Close the owner's working day: files the day's decisions, journal line, tasks and waits, and proposes tomorrow. English: “close the day”, “shutdown”, “wrap up”, “wrap up today”. Italian: «chiudiamo la giornata», «fine giornata», «per oggi ho finito»."
 ---
 
 # Close the day
@@ -14,6 +14,14 @@ Where the room instruction's preamble says this room FILES WHAT IS CLEAR, each �
 A note on a person filed here carries `author: owner` when the words are the owner's and `counterpart` when they are ours; ask which if it is not obvious from how they said it.
 
 Request ids for every write: letters, digits and hyphens, at least eight characters, INVENTED FRESH for each thing filed — today's date and a few random characters, never an id copied from this file and never one from an earlier day. ⛔ The first request accepted under an id wins and the words are not compared, so a new thing sent under a used id is answered with the old receipt and NEVER WRITTEN, and the room would say it is on the board when it is not. Reuse an id only when retrying the very same call. Read [landing.md](references/landing.md) before the first write.
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- decisions, the journal line, tasks and waits filed, tasks closed and waits lifted through the door on the owner's yes only
+- nothing said today left unfiled without asking
+- then the push stops
 
 ## 0. Read the board first
 

@@ -1,6 +1,6 @@
 ---
 name: music
-description: "Write songs with six first-name advisors and the owner as producer, decode sound references, plan releases, or review musical work. Italian: «scriviamo una canzone», «decodifichiamo questo riferimento musicale», «prepariamo questa uscita musicale», «controlla questo testo di canzone». English: “write a song”, “decode this sound reference”, “plan this music release”, “review these lyrics”. Lyric work does not start release planning."
+description: "Write songs with six first-name advisors and the owner as producer, decode sound references, plan releases, or review musical work. English: “write a song”, “decode this sound reference”, “plan this music release”, “review these lyrics”. Italian: «scriviamo una canzone», «decodifichiamo questo riferimento musicale», «prepariamo questa uscita musicale», «controlla questo testo di canzone». Lyric work does not start release planning."
 ---
 
 # Music

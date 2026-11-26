@@ -1,6 +1,6 @@
 ---
 name: writing-pack-landing-page-copy
-description: "WRITING PACK: writes, rebuilds or critiques a direct-response landing page or sales page from the classic canon: Schwartz's awareness and sophistication diagnosis, Ogilvy's craft, Halbert's flow. Use when the owner says \"landing page\", \"sales page\", \"write the page for my offer\", \"turn my Offer Blueprint into a sales page\", \"headline options for…\", \"critique my landing page\", or calls \"ideas lab landing page\". Italian: «scrivi la landing page», «pagina di vendita», «critica la mia landing page». Not for building the offer itself (writing-pack-offer-design), and not for emails or posts that promote the page. Also answers to its former name, “ideas lab landing page”."
+description: "WRITING PACK: writes, rebuilds or critiques a direct-response landing page or sales page. English: “landing page”, “sales page”, “write the page for my offer”, “turn my Offer Blueprint into a sales page”, “headline options for…”, “critique my landing page”, “ideas lab landing page”. Italian: «scrivi la landing page», «pagina di vendita», «critica la mia landing page». Not for building the offer itself (writing-pack-offer-design), and not for emails or posts that promote the page."
 ---
 
 ## Before anything else: is this skill on here?

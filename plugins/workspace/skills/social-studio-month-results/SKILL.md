@@ -1,6 +1,6 @@
 ---
 name: social-studio-month-results
-description: "SOCIAL STUDIO: MONTH RESULTS. Reads a brand's last month on social media from Metricool against the month before, every number beside its previous month, and says in three sentences the best post, one thing to stop and one to try. Asks which posts past their date really went out and marks only those done, writes the month into the campaign's overview, files the lessons as rules the next drafts follow, adds a dated “what worked” section to the brand file, and in the first months asks whether the look still feels right. Use when the person says “what did last month's posts do”, “how did social go this month”, “read the month”, “social results”; Italian: «com'è andato il mese sui social», «leggiamo il mese», «i risultati social del mese». An empty month is said plainly, never filled with an invented number. Ends by offering next month's plan."
+description: "SOCIAL STUDIO: MONTH RESULTS. Reads a brand's last month on social media from Metricool against the month before and says in three sentences the best post, one thing to stop and one to try. English: “what did last month's posts do”, “how did social go this month”, “read the month”, “social results”. Italian: «com'è andato il mese sui social», «leggiamo il mese», «i risultati social del mese». An empty month is said plainly, never filled with an invented number."
 ---
 
 ## Before anything else: is this skill on here?
@@ -10,6 +10,12 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - Carry on with the skill below ONLY if the answer says this skill is a core skill, or that it is on in this workspace.
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- Asks which posts past their date really went out and marks only those done
 
 # SOCIAL STUDIO: MONTH RESULTS
 

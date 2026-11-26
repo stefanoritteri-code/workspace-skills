@@ -1,6 +1,6 @@
 ---
 name: social-studio-posts
-description: "SOCIAL STUDIO: POSTS. Drafts the words of a brand's planned posts in its own voice and rules, two or three options per post, and keeps every option on the campaign; the one the person chooses is filed as the final, word for word, which is exactly what will later go to Metricool. Also the first comment, and credits for the people in the post. Use when the person says “draft Friday's posts”, “three options for the release post”, “write this week's posts”, “redo the Saturday post”, “a shorter version of that one”; Italian: «scrivi i post di venerdì», «tre opzioni per il post dell'uscita», «scrivi i post della settimana», «rifai il post di sabato». Never marks a text final without the person's choice and never posts. Pictures are SOCIAL STUDIO: PICTURES; sending to Metricool is METRICOOL HANDOVER."
+description: "SOCIAL STUDIO: POSTS. Drafts the words of a brand's planned posts in its own voice and rules, two or three options per post, plus the first comment and credits. English: “draft Friday's posts”, “three options for the release post”, “write this week's posts”, “redo the Saturday post”, “a shorter version of that one”. Italian: «scrivi i post di venerdì», «tre opzioni per il post dell'uscita», «scrivi i post della settimana», «rifai il post di sabato». When “that one” points at nothing in the conversation, ask which post first. Quando «quello» non indica niente nella conversazione, chiedi prima di quale post si parla. Never marks a text final without the person's choice and never posts. Pictures are SOCIAL STUDIO: PICTURES; sending to Metricool is METRICOOL HANDOVER."
 ---
 
 ## Before anything else: is this skill on here?
@@ -10,6 +10,12 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - Carry on with the skill below ONLY if the answer says this skill is a core skill, or that it is on in this workspace.
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- the one the person chooses is filed as the final, word for word, which is exactly what will later go to Metricool
 
 # SOCIAL STUDIO: POSTS
 
@@ -24,7 +30,7 @@ Open with one sentence: “I'll read the posts planned, your voice and your rule
 ## 1. Read before writing
 
 1. **The brand.** `list_projects` with `ids: true`; brands are the projects ending in ` SOCIAL`. None: offer «set up my social media» and stop. Several: ask which. Never write for two brands in one go.
-2. **The posts.** `list_tasks` with `project` the brand's campaign, `format: "json"`, `ids: true`; the posts are the tasks whose titles begin with a code (`P03 · INSTAGRAM · 18:00 · SINGLE OUT NOW`). Match the request to them by day ("Friday's posts" is every post whose deadline is that Friday). When no planned post matches, say so and offer MONTH PLAN («aggiungi un post venerdì»); never invent a post.
+2. **The posts.** `list_tasks` with `project` the brand's campaign, `format: "json"`, `ids: true`; the posts are the tasks whose titles begin with a code (`P03 · INSTAGRAM · 18:00 · SINGLE OUT NOW`). Match the request to them by day ("Friday's posts" is every post whose deadline is that Friday). When no planned post matches, say so and offer MONTH PLAN («aggiungi un post venerdì»); never invent a post. When “that one” («quello») points at nothing in the conversation, ask which post first (quando «quello» non indica niente nella conversazione, chiedi prima di quale post si parla) before drafting anything.
    **A release post from the release plan.** The release plan keeps a release's posts as planned posts on the release project, with no code. When the post asked for is one of them, follow [release-posts.md](references/release-posts.md): on the person's yes it becomes a coded post linked to the planned one, and then it is drafted like any other, with the release project as its campaign. Never draft from the planned post itself and never make a second post for it. The other posts go on.
 3. **What is filed already.** `list_pieces` with `project` the campaign: an existing `P03 - TEXT` final means this post already has its words; say so and ask whether they want to redo it.
 4. **The rules.** The brand's line first: `search_records` with `text: "SOCIAL BRAND: <BRAND>."`, `state: "live"`, no tag; its words name the brand's rule tag (never build it). Then `search_records` with that `tag`, `state: "live"`, `limit: 50`: never-dos, voice rules, themes, the approver, any live trial, the rhythm; for the only brand in the workspace, the rhythm is read with `tag: "scope:planning"`, `text: "SOCIAL RHYTHM"`.

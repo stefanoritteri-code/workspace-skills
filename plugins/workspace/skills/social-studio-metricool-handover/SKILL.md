@@ -1,6 +1,6 @@
 ---
 name: social-studio-metricool-handover
-description: "SOCIAL STUDIO: METRICOOL HANDOVER. Hands a brand's approved posts to Metricool as drafts, never live: reads each post's final words back from the records exactly as filed, stops a post with no final or no picture where the network needs one, asks for the person's own Drive or Dropbox link to each picture, sends each as a draft, keeps the planner link beside the post, and says every time what the person does next in Metricool. A changed post becomes a fresh draft and the old one is named for the person to delete; a moved post is moved on the plan, and in Metricool by the person. Use when the person says “send to Metricool”, “send Friday's posts to Metricool”, “the Saturday post changed, send it again”, “move Saturday's post to Monday”; Italian: «manda i post a Metricool», «manda i post di venerdì a Metricool», «il post di sabato è cambiato, rimandalo», «sposta il post di sabato a lunedì». Never publishes, schedules a live post, edits or deletes anything in Metricool, or sets an AI flag."
+description: "SOCIAL STUDIO: METRICOOL HANDOVER. Hands a brand's approved posts to Metricool as drafts, never live. A moved post is moved on the plan, and in Metricool by the person. English: “send to Metricool”, “send Friday's posts to Metricool”, “the Saturday post changed, send it again”, “move Saturday's post to Monday”. Italian: «manda i post a Metricool», «manda i post di venerdì a Metricool», «il post di sabato è cambiato, rimandalo», «sposta il post di sabato a lunedì». Never publishes, schedules a live post, edits or deletes anything in Metricool, or sets an AI flag."
 ---
 
 ## Before anything else: is this skill on here?
@@ -10,6 +10,13 @@ Before doing any of this skill's work, call the door's `skill_switch` tool with 
 - Carry on with the skill below ONLY if the answer says this skill is a core skill, or that it is on in this workspace.
 - If the answer says it is off: stop here. Tell the owner, in their language, that this skill is switched off in this workspace, and do nothing else from this skill.
 - In every other case (no answer, an error, the tool is not available, the answer says the switch could not be read, or any answer you do not recognise): stop here. Tell the owner plainly that the skill switch could not be read, so this skill was not used.
+
+## Rules that came from the description
+
+These sentences used to sit in this skill's description; they bind the skill exactly as before.
+
+- reads each post's final words back from the records exactly as filed, stops a post with no final or no picture where the network needs one, asks for the person's own Drive or Dropbox link to each picture, sends each as a draft
+- A changed post becomes a fresh draft and the old one is named for the person to delete; a moved post is moved on the plan, and in Metricool by the person.
 
 # SOCIAL STUDIO: METRICOOL HANDOVER
 
